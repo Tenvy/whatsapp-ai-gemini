@@ -36,9 +36,9 @@ Welcome to the **WhatsApp AI Bot**! This project leverages the power of Node.js,
    npm install
    ```
 
-3. **Set up environment variables**: Create a `.env` file in the root directory and add your OpenAI API key and other necessary configurations.
+3. **Set up environment variables**: Create a `.env` file in the root directory and add your Gemini API key and other necessary configurations.
    ```env
-   OPENAI_API_KEY=your_openai_api_key
+   GEMINI_API_KEY=your_gemini_api_key
    ```
 
 ## Usage
